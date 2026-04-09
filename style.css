@@ -1,0 +1,61 @@
+.share-tech-regular {
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+body{
+    margin:0;
+    background-color:#FAF4D3;
+}
+h1{
+    margin:0;
+    background-color:#004643;
+    color:#FAF4D3;
+    font-family:"Share Tech", sans-serif;
+    text-align:center;
+}
+.part1{
+    color:#0C1618;
+    font-family:"Share Tech", sans-serif;
+    padding:2%;
+}
+.part2{
+    color:#0C1618;
+    font-family:"Share Tech", sans-serif;
+    padding:2%;
+}
+.part3{
+    color:red;
+    font-family:"Share Tech", sans-serif;
+    padding:2%;
+}
+.computer{
+    margin:2px;
+    padding:2%;
+    font-family:"Share Tech", sans-serif;
+    border-style:dotted;
+    border-width:4px;
+    border-color:#004643;
+}
+.red{
+    width:100px;
+    height:100px;
+    background-color:red;
+    margin:5px;
+    display:inline-block;
+}
+.green{
+    width:100px;
+    height:100px;
+    background-color:green;
+    margin:5px;
+    display:inline-block;
+}
+.blue{
+    width:100px;
+    height:100px;
+    background-color:blue;
+    margin:5px;
+    display:inline-block;
+}
